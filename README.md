@@ -1,7 +1,7 @@
 # Discord Ben
 Importing "Talking Ben" to Discord
 
-To install, make sure to have [Node.js](https://nodejs.org/en) installed (in most cases it's installed with [npm](https://www.npmjs.com/))
+To install, make sure to have [Node.js](https://nodejs.org/en) installed (usually it's bundled with [npm](https://www.npmjs.com/))
 
 ## Installation
 
