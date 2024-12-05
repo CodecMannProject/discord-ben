@@ -1,0 +1,22 @@
+{
+  "name": "discord-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^13.0.1",
+    "dotenv": "^16.4.7",
+    "libsodium-wrappers": "^0.7.11",
+    "node-sass": "^8.0.0",
+    "nodemon": "^3.0.1",
+    "npm": "^9.6.7"
+  }
+}
