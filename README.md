@@ -10,7 +10,7 @@ To install, make sure to have [Node.js](https://nodejs.org/en) installed (usuall
 git clone https://github.com/CodecMannProject/discord-ben.git
 ```
 
-### Next, in repository folder, install libraries:
+### Next, in repository folder, install required libraries:
 ```
 npm install
 ```
