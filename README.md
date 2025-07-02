@@ -15,11 +15,11 @@ git clone https://github.com/CodecMannProject/discord-ben.git
 npm install
 ```
 
-## Now, create an ".env" file with your token in following format:
+### Now, create an ".env" file with your token in following format:
 ```
 DISCORD_TOKEN = "{YOUR DISCORD TOKEN}"
 ```
-
+(Replace {YOUR DISCORD TOKEN} with your bot's discord token)
 
 ## Usage (command)
 
